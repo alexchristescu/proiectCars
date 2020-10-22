@@ -29,7 +29,7 @@ export default  class SignUp extends  Component{
      PassMatch  (a,b) {
         if (a !== b) {
 
-            alert("dadada")
+            alert("da")
 
         }else{
             alert("nu")
